@@ -3,3 +3,5 @@ Git Guide			Fitzdeji Adenuga 			C00337105
  
 
 1. Init: Make a repository or initialize an existing repository
+
+2. Add: Copies files from working directory to staging area
