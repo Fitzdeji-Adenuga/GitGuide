@@ -13,3 +13,5 @@ Git Guide			Fitzdeji Adenuga 			C00337105
 5. rm: Remove a file's copy from the staging area
 
 6. Branch: Allows you to make a new branch in the repository
+
+7. Remote: Creates a remote version of a repository
