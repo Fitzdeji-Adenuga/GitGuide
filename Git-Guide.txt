@@ -7,3 +7,5 @@ Git Guide			Fitzdeji Adenuga 			C00337105
 2. Add: Copies files from working directory to staging area
 
 3. Commit: Commits files from staging area to repository with extra information
+
+4. mv: Renames a chosen file
