@@ -9,3 +9,5 @@ Git Guide			Fitzdeji Adenuga 			C00337105
 3. Commit: Commits files from staging area to repository with extra information
 
 4. mv: Renames a chosen file
+
+5. rm: Remove a file's copy from the staging area
