@@ -19,3 +19,5 @@ Git Guide			Fitzdeji Adenuga 			C00337105
 8. Push: Allows you to upload local commits to a remote
 
 9. Status: Allows you to view the current status of a repository
+
+10. Switch: Switches between two selected branches
