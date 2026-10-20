@@ -6,4 +6,4 @@ Git Guide			Fitzdeji Adenuga 			C00337105
 
 2. Add: Copies files from working directory to staging area
 
-3. Commit: Commits files from staging area to repository
+3. Commit: Commits files from staging area to repository with extra information
